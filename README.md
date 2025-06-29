@@ -18,7 +18,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 1. **Clone o repositório ou navegue até a pasta do projeto:**
    ```bash
    git clone https://github.com/0thigs/atlantis-4.git
-   cd atviv-atlantis
+   cd atlantis-4
    ```
 
 2. **Instale as dependências:**
